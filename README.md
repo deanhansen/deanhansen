@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-  - My blog! Check it out (here)[https://deanhansen.blog/]
+  - My blog! Check it out [here](https://deanhansen.blog/)
   - Building a shiny dashboard to display temperature changes over time across Canada
   - Measuring how inflation has affected fresh fruit and vegetable prices
   - Writing a guide to skip over the basics of ggplot2 and get to the heart of making great data visualizations
