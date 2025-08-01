@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ...
+  My blog! Check it out (here)[https://deanhansen.blog/]
+
+🛠 Technical Toolkit
+  Core Stack: R (tidyverse, package development), Python (ibis, scikit-learn, tensorflow, pytorch), SQL (oracle, postgresql), dbt, snowflake
+  Data Platforms: PostgreSQL, Oracle SQL, REDCap, REST APIs
+  Version Control: Git, GitHub
+  Visualization: Power BI, Quartol, Tableau
