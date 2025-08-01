@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 **deanhansen/deanhansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Measuring how inflation has affected fresh fruit and vegetable prices
   - Writing a guide to skip over the basics of ggplot2 and get to the heart of making great data visualizations
 
-🛠 My technical toolkit
+🛠 My technical toolkit ...
   - Core Stack: R (tidyverse, apache arrow, quarto, package development), Python (pandas, numpy, ibis, scikit-learn, tensorflow, pytorch), SQL (oracle, postgresql), dbt, Snowflake, Docker
   - Developer Tools: RStudio, Oracle 19c, pgAdmin 4, Positron, VS Code
   - Data Platforms: PostgreSQL, Oracle SQL, REDCap, REST APIs (statistics canada, spotify etc.)
