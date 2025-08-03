@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome to my GitHub 👋
 
 My name is Dean and I'm very passionate about data!
 
