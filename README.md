@@ -30,8 +30,14 @@ My name is Dean and I'm very passionate about data!
 
 🛠 My technical toolkit ...
 ---
-  - Core Stack: R (`tidyverse`, `apache arrow`, `quarto`, `package development`), Python (`numpy`, `polars`, `ibis`, `scikit-learn`, `tensorflow`, `pytorch`), SQL (`oracle`, `postgresql`), dbt, Snowflake, Docker
-  - Developer Tools: RStudio, Oracle 19c, pgAdmin 4, Positron, VS Code
+  - Core Stack
+    - R (`tidyverse`, `apache arrow`, `quarto`, `package development`)
+    - Python (`numpy`, `polars`, `ibis`, `scikit-learn`, `tensorflow`, `pytorch`)
+    - SQL (`oracle`, `postgresql`)
+    - Docker
+    - dbt
+    - Snowflake
+  - Developer Tools: Positron, Oracle 19c, pgAdmin 4, VS Code
   - Data Platforms: PostgreSQL, Oracle SQL, REDCap, REST APIs (statistics canada, spotify etc.)
   - Data Visualization: R packages that start with `gg`, Power BI, Tableau
   - Version Control: Git, GitHub
