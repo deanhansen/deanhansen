@@ -1,4 +1,4 @@
-Welcome 👋
+👋 Welcome
 ---
 My name is Dean and I'm very passionate about data!
 
