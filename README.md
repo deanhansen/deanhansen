@@ -2,12 +2,6 @@ Welcome 👋
 ---
 My name is Dean and I'm very passionate about data!
 
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=deanhansen" alt="Longest Streak" height="180em"/>
-</div>
-<br>
-
 🔭 I’m currently working on ...
 ---
   - My blog! Check it out [here](https://deanhansen.blog/)
@@ -29,3 +23,11 @@ My name is Dean and I'm very passionate about data!
   - Data Visualization: R packages that start with `gg`, Power BI, Tableau
   - Version Control: Git, GitHub
   - Music: Logic Pro, LABS, Analog Lab 4, Waves
+
+⭐ My GitHub ...
+---
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=deanhansen" alt="Longest Streak" height="180em"/>
+</div>
+<br>
