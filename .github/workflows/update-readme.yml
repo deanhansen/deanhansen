@@ -1,0 +1,33 @@
+name: Update GitHub Stats
+
+# Run once a day at 00:00 UTC
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # allows manual trigger too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README stats URLs
+        run: |
+          # Define URLs with your secret token
+          TOP_LANGS_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=deanhansen&layout=compact&theme=graywhite&token=${{ secrets.GH_STATS_TOKEN }}"
+          STREAK_URL="https://streak-stats.demolab.com?user=deanhansen&theme=graywhite&token=${{ secrets.GH_STATS_TOKEN }}"
+
+          # Replace existing URLs in README.md (make sure placeholder URLs exist)
+          sed -i "s|https://github-readme-stats.vercel.app/api/top-langs.*|$TOP_LANGS_URL|" README.md
+          sed -i "s|https://streak-stats.demolab.com.*|$STREAK_URL|" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add README.md
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
