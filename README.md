@@ -5,12 +5,12 @@ My name is Dean and I'm very passionate about data!
 <br>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanhansen&layout=compact&theme=graywhite&token=YOUR_GITHUB_TOKEN" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanhansen" alt="Top Languages" height="180em"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=deanhansen&theme=graywhite&token=YOUR_GITHUB_TOKEN" alt="Longest Streak" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=deanhansen" alt="Longest Streak" height="180em"/>
 
 </div>
-</br>
+<br>
 
 🔭 I’m currently working on ...
 ---
