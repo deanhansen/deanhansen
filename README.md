@@ -4,11 +4,7 @@ My name is Dean and I'm very passionate about data!
 
 <br>
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanhansen" alt="Top Languages" height="180em"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=deanhansen" alt="Longest Streak" height="180em"/>
-
 </div>
 <br>
 
